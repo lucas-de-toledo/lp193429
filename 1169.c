@@ -3,7 +3,7 @@ Disciplina  : Lógica de Programação, turma IB, 2026S1
 Nome        : Lucas Ferreira de Oliveira Toledo
 Linguagem   : C
 Problema    : https://judge.beecrowd.com/pt/problems/view/1169
-Data        : 29/05/2026
+Data        : 28/05/2026
 Objetivo    : Calcular o número de grãos
 Aprendizado : Uso de funções recursivas
 Pergunta de segunda ordem: Existe alguma consequência importante para o "acúmulo" de funções recursivas?
